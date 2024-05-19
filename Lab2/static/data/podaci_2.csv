@@ -1,0 +1,985 @@
+,country,variable,value
+0,Australia,Air pollution,6.7
+1,Australia,Dwellings without basic facilities,0.34
+2,Australia,Educational attainment,84.0
+3,Australia,Employees working very long hours,12.5
+4,Australia,Employment rate,73.0
+5,Australia,Feeling safe walking alone at night,67.0
+6,Australia,Homicide rate,0.9
+7,Australia,Household net adjusted disposable income,37433.0
+8,Australia,Household net wealth,528768.0
+9,Australia,Housing expenditure,19.4
+10,Australia,Labour market insecurity,3.1
+11,Australia,Life expectancy,83.0
+12,Australia,Life satisfaction,7.1
+13,Australia,Long-term unemployment rate,1.0
+14,Australia,Personal earnings,55206.0
+15,Australia,Quality of support network,93.0
+16,Australia,Rooms per person,2.28
+17,Australia,Self-reported health,85.0
+18,Australia,Stakeholder engagement for developing regulations,2.7
+19,Australia,Student skills,499.0
+20,Australia,Time devoted to leisure and personal care,14.36
+21,Australia,Voter turnout,92.0
+22,Australia,Water quality,92.0
+23,Australia,Years in education,20.0
+24,Austria,Air pollution,12.2
+25,Austria,Dwellings without basic facilities,0.8
+26,Austria,Educational attainment,86.0
+27,Austria,Employees working very long hours,5.3
+28,Austria,Employment rate,72.0
+29,Austria,Feeling safe walking alone at night,86.0
+30,Austria,Homicide rate,0.5
+31,Austria,Household net adjusted disposable income,37001.0
+32,Austria,Household net wealth,309637.0
+33,Austria,Housing expenditure,20.8
+34,Austria,Labour market insecurity,2.3
+35,Austria,Life expectancy,82.0
+36,Austria,Life satisfaction,7.2
+37,Austria,Long-term unemployment rate,1.3
+38,Austria,Personal earnings,53132.0
+39,Austria,Quality of support network,92.0
+40,Austria,Rooms per person,1.6
+41,Austria,Self-reported health,71.0
+42,Austria,Stakeholder engagement for developing regulations,1.3
+43,Austria,Student skills,491.0
+44,Austria,Time devoted to leisure and personal care,14.51
+45,Austria,Voter turnout,76.0
+46,Austria,Water quality,92.0
+47,Austria,Years in education,17.0
+48,Belgium,Air pollution,12.8
+49,Belgium,Dwellings without basic facilities,0.7
+50,Belgium,Educational attainment,80.0
+51,Belgium,Employees working very long hours,4.3
+52,Belgium,Employment rate,65.0
+53,Belgium,Feeling safe walking alone at night,56.0
+54,Belgium,Homicide rate,1.1
+55,Belgium,Household net adjusted disposable income,34884.0
+56,Belgium,Household net wealth,447607.0
+57,Belgium,Housing expenditure,20.0
+58,Belgium,Labour market insecurity,2.4
+59,Belgium,Life expectancy,82.1
+60,Belgium,Life satisfaction,6.8
+61,Belgium,Long-term unemployment rate,2.3
+62,Belgium,Personal earnings,54327.0
+63,Belgium,Quality of support network,90.0
+64,Belgium,Rooms per person,2.1
+65,Belgium,Self-reported health,74.0
+66,Belgium,Stakeholder engagement for developing regulations,2.0
+67,Belgium,Student skills,500.0
+68,Belgium,Time devoted to leisure and personal care,15.52
+69,Belgium,Voter turnout,88.0
+70,Belgium,Water quality,79.0
+71,Belgium,Years in education,19.0
+72,Brazil,Air pollution,11.7
+73,Brazil,Dwellings without basic facilities,6.7
+74,Brazil,Educational attainment,57.0
+75,Brazil,Employees working very long hours,5.6
+76,Brazil,Employment rate,57.0
+77,Brazil,Feeling safe walking alone at night,45.0
+78,Brazil,Homicide rate,19.0
+79,Brazil,Household net adjusted disposable income,14741.1
+80,Brazil,Household net wealth,119038.7
+81,Brazil,Housing expenditure,18.64
+82,Brazil,Labour market insecurity,9.9
+83,Brazil,Life expectancy,75.9
+84,Brazil,Life satisfaction,6.1
+85,Brazil,Long-term unemployment rate,6.15
+86,Brazil,Personal earnings,28541.5
+87,Brazil,Quality of support network,83.0
+88,Brazil,Rooms per person,1.13
+89,Brazil,Self-reported health,66.3
+90,Brazil,Stakeholder engagement for developing regulations,2.2
+91,Brazil,Student skills,400.0
+92,Brazil,Time devoted to leisure and personal care,15.186
+93,Brazil,Voter turnout,80.0
+94,Brazil,Water quality,70.0
+95,Brazil,Years in education,16.0
+96,Canada,Air pollution,7.1
+97,Canada,Dwellings without basic facilities,0.2
+98,Canada,Educational attainment,92.0
+99,Canada,Employees working very long hours,3.3
+100,Canada,Employment rate,70.0
+101,Canada,Feeling safe walking alone at night,78.0
+102,Canada,Homicide rate,1.2
+103,Canada,Household net adjusted disposable income,34421.0
+104,Canada,Household net wealth,478240.0
+105,Canada,Housing expenditure,22.9
+106,Canada,Labour market insecurity,3.8
+107,Canada,Life expectancy,82.1
+108,Canada,Life satisfaction,7.0
+109,Canada,Long-term unemployment rate,0.5
+110,Canada,Personal earnings,55342.0
+111,Canada,Quality of support network,93.0
+112,Canada,Rooms per person,2.6
+113,Canada,Self-reported health,89.0
+114,Canada,Stakeholder engagement for developing regulations,2.9
+115,Canada,Student skills,517.0
+116,Canada,Time devoted to leisure and personal care,14.57
+117,Canada,Voter turnout,68.0
+118,Canada,Water quality,90.0
+119,Canada,Years in education,17.0
+120,Chile,Air pollution,23.4
+121,Chile,Dwellings without basic facilities,9.4
+122,Chile,Educational attainment,67.0
+123,Chile,Employees working very long hours,7.7
+124,Chile,Employment rate,56.0
+125,Chile,Feeling safe walking alone at night,41.0
+126,Chile,Homicide rate,2.4
+127,Chile,Household net adjusted disposable income,22227.0
+128,Chile,Household net wealth,135787.0
+129,Chile,Housing expenditure,18.4
+130,Chile,Labour market insecurity,7.0
+131,Chile,Life expectancy,80.6
+132,Chile,Life satisfaction,6.2
+133,Chile,Long-term unemployment rate,5.73
+134,Chile,Personal earnings,26729.0
+135,Chile,Quality of support network,88.0
+136,Chile,Rooms per person,1.9
+137,Chile,Self-reported health,60.0
+138,Chile,Stakeholder engagement for developing regulations,1.3
+139,Chile,Student skills,438.0
+140,Chile,Time devoted to leisure and personal care,14.977
+141,Chile,Voter turnout,47.0
+142,Chile,Water quality,62.0
+143,Chile,Years in education,17.0
+144,Colombia,Air pollution,22.6
+145,Colombia,Dwellings without basic facilities,12.3
+146,Colombia,Educational attainment,59.0
+147,Colombia,Employees working very long hours,23.7
+148,Colombia,Employment rate,58.0
+149,Colombia,Feeling safe walking alone at night,50.0
+150,Colombia,Homicide rate,23.1
+151,Colombia,Household net adjusted disposable income,14338.5
+152,Colombia,Household net wealth,238600.9
+153,Colombia,Housing expenditure,17.86
+154,Colombia,Labour market insecurity,7.31
+155,Colombia,Life expectancy,76.7
+156,Colombia,Life satisfaction,5.7
+157,Colombia,Long-term unemployment rate,1.1
+158,Colombia,Personal earnings,21060.9
+159,Colombia,Quality of support network,80.0
+160,Colombia,Rooms per person,1.0
+161,Colombia,Self-reported health,80.0
+162,Colombia,Stakeholder engagement for developing regulations,1.4
+163,Colombia,Student skills,406.0
+164,Colombia,Time devoted to leisure and personal care,14.428
+165,Colombia,Voter turnout,53.0
+166,Colombia,Water quality,82.0
+167,Colombia,Years in education,14.0
+168,Costa Rica,Air pollution,17.5
+169,Costa Rica,Dwellings without basic facilities,2.3
+170,Costa Rica,Educational attainment,43.0
+171,Costa Rica,Employees working very long hours,22.0
+172,Costa Rica,Employment rate,55.0
+173,Costa Rica,Feeling safe walking alone at night,47.0
+174,Costa Rica,Homicide rate,10.0
+175,Costa Rica,Household net adjusted disposable income,16517.0
+176,Costa Rica,Household net wealth,124517.1
+177,Costa Rica,Housing expenditure,17.0
+178,Costa Rica,Labour market insecurity,7.639999999999999
+179,Costa Rica,Life expectancy,80.5
+180,Costa Rica,Life satisfaction,6.3
+181,Costa Rica,Long-term unemployment rate,1.5
+182,Costa Rica,Personal earnings,27605.9
+183,Costa Rica,Quality of support network,82.0
+184,Costa Rica,Rooms per person,1.2
+185,Costa Rica,Self-reported health,73.0
+186,Costa Rica,Stakeholder engagement for developing regulations,1.8
+187,Costa Rica,Student skills,415.0
+188,Costa Rica,Time devoted to leisure and personal care,14.631
+189,Costa Rica,Voter turnout,66.0
+190,Costa Rica,Water quality,87.0
+191,Costa Rica,Years in education,15.9
+192,Czech Republic,Air pollution,17.0
+193,Czech Republic,Dwellings without basic facilities,0.5
+194,Czech Republic,Educational attainment,94.0
+195,Czech Republic,Employees working very long hours,4.5
+196,Czech Republic,Employment rate,74.0
+197,Czech Republic,Feeling safe walking alone at night,77.0
+198,Czech Republic,Homicide rate,0.7
+199,Czech Republic,Household net adjusted disposable income,26664.0
+200,Czech Republic,Household net wealth,122494.4
+201,Czech Republic,Housing expenditure,23.4
+202,Czech Republic,Labour market insecurity,2.3
+203,Czech Republic,Life expectancy,79.3
+204,Czech Republic,Life satisfaction,6.9
+205,Czech Republic,Long-term unemployment rate,0.6
+206,Czech Republic,Personal earnings,29885.0
+207,Czech Republic,Quality of support network,96.0
+208,Czech Republic,Rooms per person,1.5
+209,Czech Republic,Self-reported health,62.0
+210,Czech Republic,Stakeholder engagement for developing regulations,1.6
+211,Czech Republic,Student skills,495.0
+212,Czech Republic,Time devoted to leisure and personal care,14.99
+213,Czech Republic,Voter turnout,62.0
+214,Czech Republic,Water quality,89.0
+215,Czech Republic,Years in education,18.0
+216,Denmark,Air pollution,10.0
+217,Denmark,Dwellings without basic facilities,0.5
+218,Denmark,Educational attainment,82.0
+219,Denmark,Employees working very long hours,1.1
+220,Denmark,Employment rate,74.0
+221,Denmark,Feeling safe walking alone at night,85.0
+222,Denmark,Homicide rate,0.5
+223,Denmark,Household net adjusted disposable income,33774.0
+224,Denmark,Household net wealth,149864.0
+225,Denmark,Housing expenditure,23.3
+226,Denmark,Labour market insecurity,4.5
+227,Denmark,Life expectancy,81.5
+228,Denmark,Life satisfaction,7.5
+229,Denmark,Long-term unemployment rate,0.9
+230,Denmark,Personal earnings,58430.0
+231,Denmark,Quality of support network,95.0
+232,Denmark,Rooms per person,1.9
+233,Denmark,Self-reported health,70.0
+234,Denmark,Stakeholder engagement for developing regulations,2.0
+235,Denmark,Student skills,501.0
+236,Denmark,Time devoted to leisure and personal care,15.288
+237,Denmark,Voter turnout,85.0
+238,Denmark,Water quality,93.0
+239,Denmark,Years in education,19.0
+240,Estonia,Air pollution,5.9
+241,Estonia,Dwellings without basic facilities,5.7
+242,Estonia,Educational attainment,91.0
+243,Estonia,Employees working very long hours,2.2
+244,Estonia,Employment rate,74.0
+245,Estonia,Feeling safe walking alone at night,79.0
+246,Estonia,Homicide rate,1.9
+247,Estonia,Household net adjusted disposable income,23784.0
+248,Estonia,Household net wealth,188627.0
+249,Estonia,Housing expenditure,17.0
+250,Estonia,Labour market insecurity,5.4
+251,Estonia,Life expectancy,78.8
+252,Estonia,Life satisfaction,6.5
+253,Estonia,Long-term unemployment rate,1.2
+254,Estonia,Personal earnings,30720.0
+255,Estonia,Quality of support network,95.0
+256,Estonia,Rooms per person,1.7
+257,Estonia,Self-reported health,57.0
+258,Estonia,Stakeholder engagement for developing regulations,2.7
+259,Estonia,Student skills,526.0
+260,Estonia,Time devoted to leisure and personal care,14.98
+261,Estonia,Voter turnout,64.0
+262,Estonia,Water quality,86.0
+263,Estonia,Years in education,18.0
+264,Finland,Air pollution,5.5
+265,Finland,Dwellings without basic facilities,0.4
+266,Finland,Educational attainment,91.0
+267,Finland,Employees working very long hours,3.6
+268,Finland,Employment rate,72.0
+269,Finland,Feeling safe walking alone at night,88.0
+270,Finland,Homicide rate,1.2
+271,Finland,Household net adjusted disposable income,33471.0
+272,Finland,Household net wealth,230032.0
+273,Finland,Housing expenditure,23.1
+274,Finland,Labour market insecurity,2.2
+275,Finland,Life expectancy,82.1
+276,Finland,Life satisfaction,7.9
+277,Finland,Long-term unemployment rate,1.2
+278,Finland,Personal earnings,46230.0
+279,Finland,Quality of support network,96.0
+280,Finland,Rooms per person,1.9
+281,Finland,Self-reported health,68.0
+282,Finland,Stakeholder engagement for developing regulations,2.2
+283,Finland,Student skills,516.0
+284,Finland,Time devoted to leisure and personal care,15.17
+285,Finland,Voter turnout,69.0
+286,Finland,Water quality,97.0
+287,Finland,Years in education,20.0
+288,France,Air pollution,11.4
+289,France,Dwellings without basic facilities,0.5
+290,France,Educational attainment,81.0
+291,France,Employees working very long hours,7.7
+292,France,Employment rate,65.0
+293,France,Feeling safe walking alone at night,74.0
+294,France,Homicide rate,0.4
+295,France,Household net adjusted disposable income,34375.0
+296,France,Household net wealth,298639.0
+297,France,Housing expenditure,20.7
+298,France,Labour market insecurity,3.1
+299,France,Life expectancy,82.9
+300,France,Life satisfaction,6.7
+301,France,Long-term unemployment rate,2.9
+302,France,Personal earnings,45581.0
+303,France,Quality of support network,94.0
+304,France,Rooms per person,1.8
+305,France,Self-reported health,67.0
+306,France,Stakeholder engagement for developing regulations,2.1
+307,France,Student skills,494.0
+308,France,Time devoted to leisure and personal care,16.2
+309,France,Voter turnout,75.0
+310,France,Water quality,78.0
+311,France,Years in education,17.0
+312,Germany,Air pollution,12.0
+313,Germany,Dwellings without basic facilities,0.1
+314,Germany,Educational attainment,86.0
+315,Germany,Employees working very long hours,3.9
+316,Germany,Employment rate,77.0
+317,Germany,Feeling safe walking alone at night,76.0
+318,Germany,Homicide rate,0.4
+319,Germany,Household net adjusted disposable income,38971.0
+320,Germany,Household net wealth,304317.0
+321,Germany,Housing expenditure,20.0
+322,Germany,Labour market insecurity,1.4
+323,Germany,Life expectancy,81.4
+324,Germany,Life satisfaction,7.3
+325,Germany,Long-term unemployment rate,1.2
+326,Germany,Personal earnings,53745.0
+327,Germany,Quality of support network,90.0
+328,Germany,Rooms per person,1.8
+329,Germany,Self-reported health,66.0
+330,Germany,Stakeholder engagement for developing regulations,1.8
+331,Germany,Student skills,500.0
+332,Germany,Time devoted to leisure and personal care,15.62
+333,Germany,Voter turnout,76.0
+334,Germany,Water quality,91.0
+335,Germany,Years in education,18.0
+336,Greece,Air pollution,14.5
+337,Greece,Dwellings without basic facilities,0.4
+338,Greece,Educational attainment,76.0
+339,Greece,Employees working very long hours,4.5
+340,Greece,Employment rate,56.0
+341,Greece,Feeling safe walking alone at night,69.0
+342,Greece,Homicide rate,1.0
+343,Greece,Household net adjusted disposable income,20791.0
+344,Greece,Household net wealth,148323.0
+345,Greece,Housing expenditure,21.8
+346,Greece,Labour market insecurity,21.7
+347,Greece,Life expectancy,81.7
+348,Greece,Life satisfaction,5.8
+349,Greece,Long-term unemployment rate,10.8
+350,Greece,Personal earnings,27207.0
+351,Greece,Quality of support network,78.0
+352,Greece,Rooms per person,1.2
+353,Greece,Self-reported health,79.0
+354,Greece,Stakeholder engagement for developing regulations,1.8
+355,Greece,Student skills,453.0
+356,Greece,Time devoted to leisure and personal care,15.03
+357,Greece,Voter turnout,58.0
+358,Greece,Water quality,67.0
+359,Greece,Years in education,19.0
+360,Hungary,Air pollution,16.7
+361,Hungary,Dwellings without basic facilities,3.5
+362,Hungary,Educational attainment,86.0
+363,Hungary,Employees working very long hours,1.5
+364,Hungary,Employment rate,70.0
+365,Hungary,Feeling safe walking alone at night,74.0
+366,Hungary,Homicide rate,0.9
+367,Hungary,Household net adjusted disposable income,21026.0
+368,Hungary,Household net wealth,150296.0
+369,Hungary,Housing expenditure,19.9
+370,Hungary,Labour market insecurity,3.8
+371,Hungary,Life expectancy,76.4
+372,Hungary,Life satisfaction,6.0
+373,Hungary,Long-term unemployment rate,1.2
+374,Hungary,Personal earnings,25409.0
+375,Hungary,Quality of support network,94.0
+376,Hungary,Rooms per person,1.4
+377,Hungary,Self-reported health,58.0
+378,Hungary,Stakeholder engagement for developing regulations,1.2
+379,Hungary,Student skills,479.0
+380,Hungary,Time devoted to leisure and personal care,15.08
+381,Hungary,Voter turnout,70.0
+382,Hungary,Water quality,81.0
+383,Hungary,Years in education,16.0
+384,Iceland,Air pollution,6.4
+385,Iceland,Dwellings without basic facilities,0.0
+386,Iceland,Educational attainment,76.0
+387,Iceland,Employees working very long hours,11.7
+388,Iceland,Employment rate,78.0
+389,Iceland,Feeling safe walking alone at night,85.0
+390,Iceland,Homicide rate,0.3
+391,Iceland,Household net adjusted disposable income,41096.1
+392,Iceland,Household net wealth,399420.9
+393,Iceland,Housing expenditure,20.89
+394,Iceland,Labour market insecurity,1.0
+395,Iceland,Life expectancy,83.2
+396,Iceland,Life satisfaction,7.6
+397,Iceland,Long-term unemployment rate,0.7
+398,Iceland,Personal earnings,67488.0
+399,Iceland,Quality of support network,98.0
+400,Iceland,Rooms per person,1.6
+401,Iceland,Self-reported health,77.0
+402,Iceland,Stakeholder engagement for developing regulations,2.1
+403,Iceland,Student skills,481.0
+404,Iceland,Time devoted to leisure and personal care,15.019
+405,Iceland,Voter turnout,81.0
+406,Iceland,Water quality,97.0
+407,Iceland,Years in education,19.0
+408,Ireland,Air pollution,7.8
+409,Ireland,Dwellings without basic facilities,0.2
+410,Ireland,Educational attainment,85.0
+411,Ireland,Employees working very long hours,4.7
+412,Ireland,Employment rate,68.0
+413,Ireland,Feeling safe walking alone at night,76.0
+414,Ireland,Homicide rate,0.5
+415,Ireland,Household net adjusted disposable income,29488.0
+416,Ireland,Household net wealth,370341.0
+417,Ireland,Housing expenditure,20.6
+418,Ireland,Labour market insecurity,2.6
+419,Ireland,Life expectancy,82.8
+420,Ireland,Life satisfaction,7.0
+421,Ireland,Long-term unemployment rate,1.2
+422,Ireland,Personal earnings,49474.0
+423,Ireland,Quality of support network,96.0
+424,Ireland,Rooms per person,2.1
+425,Ireland,Self-reported health,84.0
+426,Ireland,Stakeholder engagement for developing regulations,1.3
+427,Ireland,Student skills,505.0
+428,Ireland,Time devoted to leisure and personal care,14.54
+429,Ireland,Voter turnout,63.0
+430,Ireland,Water quality,80.0
+431,Ireland,Years in education,18.0
+432,Israel,Air pollution,19.7
+433,Israel,Dwellings without basic facilities,0.8400000000000001
+434,Israel,Educational attainment,88.0
+435,Israel,Employees working very long hours,14.1
+436,Israel,Employment rate,67.0
+437,Israel,Feeling safe walking alone at night,80.0
+438,Israel,Homicide rate,1.5
+439,Israel,Household net adjusted disposable income,25536.0
+440,Israel,Household net wealth,178038.7
+441,Israel,Housing expenditure,22.31
+442,Israel,Labour market insecurity,4.6
+443,Israel,Life expectancy,82.9
+444,Israel,Life satisfaction,7.2
+445,Israel,Long-term unemployment rate,0.2
+446,Israel,Personal earnings,39322.0
+447,Israel,Quality of support network,95.0
+448,Israel,Rooms per person,1.2
+449,Israel,Self-reported health,74.0
+450,Israel,Stakeholder engagement for developing regulations,2.5
+451,Israel,Student skills,465.0
+452,Israel,Time devoted to leisure and personal care,14.813
+453,Israel,Voter turnout,67.0
+454,Israel,Water quality,77.0
+455,Israel,Years in education,16.0
+456,Italy,Air pollution,15.9
+457,Italy,Dwellings without basic facilities,0.6
+458,Italy,Educational attainment,63.0
+459,Italy,Employees working very long hours,3.3
+460,Italy,Employment rate,58.0
+461,Italy,Feeling safe walking alone at night,73.0
+462,Italy,Homicide rate,0.5
+463,Italy,Household net adjusted disposable income,29431.0
+464,Italy,Household net wealth,295020.0
+465,Italy,Housing expenditure,22.5
+466,Italy,Labour market insecurity,8.6
+467,Italy,Life expectancy,83.6
+468,Italy,Life satisfaction,6.5
+469,Italy,Long-term unemployment rate,4.8
+470,Italy,Personal earnings,37769.0
+471,Italy,Quality of support network,89.0
+472,Italy,Rooms per person,1.4
+473,Italy,Self-reported health,73.0
+474,Italy,Stakeholder engagement for developing regulations,2.5
+475,Italy,Student skills,477.0
+476,Italy,Time devoted to leisure and personal care,16.47
+477,Italy,Voter turnout,73.0
+478,Italy,Water quality,77.0
+479,Italy,Years in education,17.0
+480,Japan,Air pollution,13.7
+481,Japan,Dwellings without basic facilities,6.4
+482,Japan,Educational attainment,84.4
+483,Japan,Employees working very long hours,4.7
+484,Japan,Employment rate,77.0
+485,Japan,Feeling safe walking alone at night,77.0
+486,Japan,Homicide rate,0.2
+487,Japan,Household net adjusted disposable income,28872.0
+488,Japan,Household net wealth,294735.0
+489,Japan,Housing expenditure,21.8
+490,Japan,Labour market insecurity,2.7
+491,Japan,Life expectancy,84.4
+492,Japan,Life satisfaction,6.1
+493,Japan,Long-term unemployment rate,0.8
+494,Japan,Personal earnings,38515.0
+495,Japan,Quality of support network,89.0
+496,Japan,Rooms per person,1.9
+497,Japan,Self-reported health,37.0
+498,Japan,Stakeholder engagement for developing regulations,1.4
+499,Japan,Student skills,520.0
+500,Japan,Time devoted to leisure and personal care,14.1
+501,Japan,Voter turnout,53.0
+502,Japan,Water quality,87.0
+503,Japan,Years in education,16.0
+504,Korea,Air pollution,27.3
+505,Korea,Dwellings without basic facilities,2.5
+506,Korea,Educational attainment,89.0
+507,Korea,Employees working very long hours,8.889999999999999
+508,Korea,Employment rate,66.0
+509,Korea,Feeling safe walking alone at night,82.0
+510,Korea,Homicide rate,0.8
+511,Korea,Household net adjusted disposable income,24590.0
+512,Korea,Household net wealth,362340.0
+513,Korea,Housing expenditure,14.7
+514,Korea,Labour market insecurity,2.9
+515,Korea,Life expectancy,83.3
+516,Korea,Life satisfaction,5.8
+517,Korea,Long-term unemployment rate,0.0
+518,Korea,Personal earnings,41960.0
+519,Korea,Quality of support network,80.0
+520,Korea,Rooms per person,1.5
+521,Korea,Self-reported health,34.0
+522,Korea,Stakeholder engagement for developing regulations,2.9
+523,Korea,Student skills,520.0
+524,Korea,Time devoted to leisure and personal care,14.83
+525,Korea,Voter turnout,77.0
+526,Korea,Water quality,82.0
+527,Korea,Years in education,17.0
+528,Latvia,Air pollution,12.7
+529,Latvia,Dwellings without basic facilities,11.2
+530,Latvia,Educational attainment,89.0
+531,Latvia,Employees working very long hours,1.6
+532,Latvia,Employment rate,72.0
+533,Latvia,Feeling safe walking alone at night,72.0
+534,Latvia,Homicide rate,3.7
+535,Latvia,Household net adjusted disposable income,19783.0
+536,Latvia,Household net wealth,79245.0
+537,Latvia,Housing expenditure,20.8
+538,Latvia,Labour market insecurity,6.3
+539,Latvia,Life expectancy,75.5
+540,Latvia,Life satisfaction,6.2
+541,Latvia,Long-term unemployment rate,2.2
+542,Latvia,Personal earnings,29876.0
+543,Latvia,Quality of support network,92.0
+544,Latvia,Rooms per person,1.2
+545,Latvia,Self-reported health,47.0
+546,Latvia,Stakeholder engagement for developing regulations,2.2
+547,Latvia,Student skills,487.0
+548,Latvia,Time devoted to leisure and personal care,15.079
+549,Latvia,Voter turnout,55.0
+550,Latvia,Water quality,83.0
+551,Latvia,Years in education,18.0
+552,Lithuania,Air pollution,10.5
+553,Lithuania,Dwellings without basic facilities,11.8
+554,Lithuania,Educational attainment,94.0
+555,Lithuania,Employees working very long hours,1.0
+556,Lithuania,Employment rate,72.0
+557,Lithuania,Feeling safe walking alone at night,62.0
+558,Lithuania,Homicide rate,2.5
+559,Lithuania,Household net adjusted disposable income,26976.0
+560,Lithuania,Household net wealth,182039.0
+561,Lithuania,Housing expenditure,18.4
+562,Lithuania,Labour market insecurity,6.989999999999999
+563,Lithuania,Life expectancy,76.4
+564,Lithuania,Life satisfaction,6.4
+565,Lithuania,Long-term unemployment rate,2.5
+566,Lithuania,Personal earnings,31811.0
+567,Lithuania,Quality of support network,89.0
+568,Lithuania,Rooms per person,1.5
+569,Lithuania,Self-reported health,46.0
+570,Lithuania,Stakeholder engagement for developing regulations,2.4
+571,Lithuania,Student skills,480.0
+572,Lithuania,Time devoted to leisure and personal care,15.153
+573,Lithuania,Voter turnout,57.0
+574,Lithuania,Water quality,83.0
+575,Lithuania,Years in education,18.0
+576,Luxembourg,Air pollution,10.0
+577,Luxembourg,Dwellings without basic facilities,0.1
+578,Luxembourg,Educational attainment,74.0
+579,Luxembourg,Employees working very long hours,2.8
+580,Luxembourg,Employment rate,67.0
+581,Luxembourg,Feeling safe walking alone at night,87.0
+582,Luxembourg,Homicide rate,0.2
+583,Luxembourg,Household net adjusted disposable income,44773.0
+584,Luxembourg,Household net wealth,941162.0
+585,Luxembourg,Housing expenditure,20.7
+586,Luxembourg,Labour market insecurity,2.2
+587,Luxembourg,Life expectancy,82.7
+588,Luxembourg,Life satisfaction,7.4
+589,Luxembourg,Long-term unemployment rate,1.7
+590,Luxembourg,Personal earnings,65854.0
+591,Luxembourg,Quality of support network,91.0
+592,Luxembourg,Rooms per person,2.0
+593,Luxembourg,Self-reported health,72.0
+594,Luxembourg,Stakeholder engagement for developing regulations,1.7
+595,Luxembourg,Student skills,477.0
+596,Luxembourg,Time devoted to leisure and personal care,15.628
+597,Luxembourg,Voter turnout,90.0
+598,Luxembourg,Water quality,85.0
+599,Luxembourg,Years in education,15.0
+600,Mexico,Air pollution,20.3
+601,Mexico,Dwellings without basic facilities,25.9
+602,Mexico,Educational attainment,42.0
+603,Mexico,Employees working very long hours,27.0
+604,Mexico,Employment rate,59.0
+605,Mexico,Feeling safe walking alone at night,42.0
+606,Mexico,Homicide rate,26.8
+607,Mexico,Household net adjusted disposable income,16269.0
+608,Mexico,Household net wealth,199400.4
+609,Mexico,Housing expenditure,17.8
+610,Mexico,Labour market insecurity,4.0
+611,Mexico,Life expectancy,75.1
+612,Mexico,Life satisfaction,6.0
+613,Mexico,Long-term unemployment rate,0.1
+614,Mexico,Personal earnings,16230.0
+615,Mexico,Quality of support network,77.0
+616,Mexico,Rooms per person,1.1
+617,Mexico,Self-reported health,66.0
+618,Mexico,Stakeholder engagement for developing regulations,3.2
+619,Mexico,Student skills,416.0
+620,Mexico,Time devoted to leisure and personal care,14.518
+621,Mexico,Voter turnout,63.0
+622,Mexico,Water quality,75.0
+623,Mexico,Years in education,15.0
+624,Netherlands,Air pollution,12.2
+625,Netherlands,Dwellings without basic facilities,0.1
+626,Netherlands,Educational attainment,81.0
+627,Netherlands,Employees working very long hours,0.3
+628,Netherlands,Employment rate,78.0
+629,Netherlands,Feeling safe walking alone at night,83.0
+630,Netherlands,Homicide rate,0.6
+631,Netherlands,Household net adjusted disposable income,34984.0
+632,Netherlands,Household net wealth,248599.0
+633,Netherlands,Housing expenditure,19.6
+634,Netherlands,Labour market insecurity,2.5
+635,Netherlands,Life expectancy,82.2
+636,Netherlands,Life satisfaction,7.5
+637,Netherlands,Long-term unemployment rate,0.9
+638,Netherlands,Personal earnings,58828.0
+639,Netherlands,Quality of support network,94.0
+640,Netherlands,Rooms per person,2.0
+641,Netherlands,Self-reported health,75.0
+642,Netherlands,Stakeholder engagement for developing regulations,2.6
+643,Netherlands,Student skills,502.0
+644,Netherlands,Time devoted to leisure and personal care,15.45
+645,Netherlands,Voter turnout,79.0
+646,Netherlands,Water quality,91.0
+647,Netherlands,Years in education,19.0
+648,New Zealand,Air pollution,6.0
+649,New Zealand,Dwellings without basic facilities,0.28
+650,New Zealand,Educational attainment,81.0
+651,New Zealand,Employees working very long hours,14.0
+652,New Zealand,Employment rate,77.0
+653,New Zealand,Feeling safe walking alone at night,66.0
+654,New Zealand,Homicide rate,1.3
+655,New Zealand,Household net adjusted disposable income,39024.0
+656,New Zealand,Household net wealth,514162.0
+657,New Zealand,Housing expenditure,25.0
+658,New Zealand,Labour market insecurity,4.5
+659,New Zealand,Life expectancy,82.1
+660,New Zealand,Life satisfaction,7.3
+661,New Zealand,Long-term unemployment rate,0.4
+662,New Zealand,Personal earnings,45269.0
+663,New Zealand,Quality of support network,95.0
+664,New Zealand,Rooms per person,2.4
+665,New Zealand,Self-reported health,86.0
+666,New Zealand,Stakeholder engagement for developing regulations,2.5
+667,New Zealand,Student skills,503.0
+668,New Zealand,Time devoted to leisure and personal care,14.87
+669,New Zealand,Voter turnout,82.0
+670,New Zealand,Water quality,85.0
+671,New Zealand,Years in education,18.0
+672,Norway,Air pollution,6.7
+673,Norway,Dwellings without basic facilities,0.0
+674,Norway,Educational attainment,82.0
+675,Norway,Employees working very long hours,1.4
+676,Norway,Employment rate,75.0
+677,Norway,Feeling safe walking alone at night,93.0
+678,Norway,Homicide rate,0.6
+679,Norway,Household net adjusted disposable income,39144.0
+680,Norway,Household net wealth,268358.0
+681,Norway,Housing expenditure,17.7
+682,Norway,Labour market insecurity,2.8
+683,Norway,Life expectancy,83.0
+684,Norway,Life satisfaction,7.3
+685,Norway,Long-term unemployment rate,0.9
+686,Norway,Personal earnings,55780.0
+687,Norway,Quality of support network,96.0
+688,Norway,Rooms per person,2.1
+689,Norway,Self-reported health,75.0
+690,Norway,Stakeholder engagement for developing regulations,2.2
+691,Norway,Student skills,497.0
+692,Norway,Time devoted to leisure and personal care,15.67
+693,Norway,Voter turnout,78.0
+694,Norway,Water quality,98.0
+695,Norway,Years in education,18.0
+696,Poland,Air pollution,22.8
+697,Poland,Dwellings without basic facilities,2.3
+698,Poland,Educational attainment,93.0
+699,Poland,Employees working very long hours,4.2
+700,Poland,Employment rate,69.0
+701,Poland,Feeling safe walking alone at night,71.0
+702,Poland,Homicide rate,0.5
+703,Poland,Household net adjusted disposable income,23675.0
+704,Poland,Household net wealth,233221.0
+705,Poland,Housing expenditure,21.2
+706,Poland,Labour market insecurity,5.0
+707,Poland,Life expectancy,78.0
+708,Poland,Life satisfaction,6.1
+709,Poland,Long-term unemployment rate,0.6
+710,Poland,Personal earnings,32527.0
+711,Poland,Quality of support network,94.0
+712,Poland,Rooms per person,1.1
+713,Poland,Self-reported health,60.0
+714,Poland,Stakeholder engagement for developing regulations,2.6
+715,Poland,Student skills,513.0
+716,Poland,Time devoted to leisure and personal care,14.68
+717,Poland,Voter turnout,68.0
+718,Poland,Water quality,82.0
+719,Poland,Years in education,18.0
+720,Portugal,Air pollution,8.3
+721,Portugal,Dwellings without basic facilities,0.9
+722,Portugal,Educational attainment,55.0
+723,Portugal,Employees working very long hours,5.6
+724,Portugal,Employment rate,69.0
+725,Portugal,Feeling safe walking alone at night,83.0
+726,Portugal,Homicide rate,0.7
+727,Portugal,Household net adjusted disposable income,24877.0
+728,Portugal,Household net wealth,255303.0
+729,Portugal,Housing expenditure,19.6
+730,Portugal,Labour market insecurity,8.1
+731,Portugal,Life expectancy,81.8
+732,Portugal,Life satisfaction,5.8
+733,Portugal,Long-term unemployment rate,2.3
+734,Portugal,Personal earnings,28410.0
+735,Portugal,Quality of support network,87.0
+736,Portugal,Rooms per person,1.7
+737,Portugal,Self-reported health,50.0
+738,Portugal,Stakeholder engagement for developing regulations,1.5
+739,Portugal,Student skills,492.0
+740,Portugal,Time devoted to leisure and personal care,15.111
+741,Portugal,Voter turnout,49.0
+742,Portugal,Water quality,89.0
+743,Portugal,Years in education,17.0
+744,Russia,Air pollution,11.8
+745,Russia,Dwellings without basic facilities,13.8
+746,Russia,Educational attainment,95.0
+747,Russia,Employees working very long hours,0.1
+748,Russia,Employment rate,70.0
+749,Russia,Feeling safe walking alone at night,64.0
+750,Russia,Homicide rate,4.8
+751,Russia,Household net adjusted disposable income,19546.0
+752,Russia,Household net wealth,84899.2
+753,Russia,Housing expenditure,17.4
+754,Russia,Labour market insecurity,4.69
+755,Russia,Life expectancy,73.2
+756,Russia,Life satisfaction,5.5
+757,Russia,Long-term unemployment rate,1.1
+758,Russia,Personal earnings,26720.1
+759,Russia,Quality of support network,89.0
+760,Russia,Rooms per person,1.0
+761,Russia,Self-reported health,43.0
+762,Russia,Stakeholder engagement for developing regulations,2.37
+763,Russia,Student skills,481.0
+764,Russia,Time devoted to leisure and personal care,14.703
+765,Russia,Voter turnout,68.0
+766,Russia,Water quality,62.0
+767,Russia,Years in education,16.0
+768,Slovak Republic,Air pollution,18.5
+769,Slovak Republic,Dwellings without basic facilities,1.5
+770,Slovak Republic,Educational attainment,92.0
+771,Slovak Republic,Employees working very long hours,4.2
+772,Slovak Republic,Employment rate,68.0
+773,Slovak Republic,Feeling safe walking alone at night,76.0
+774,Slovak Republic,Homicide rate,0.8
+775,Slovak Republic,Household net adjusted disposable income,21149.0
+776,Slovak Republic,Household net wealth,171425.0
+777,Slovak Republic,Housing expenditure,27.4
+778,Slovak Republic,Labour market insecurity,8.8
+779,Slovak Republic,Life expectancy,77.8
+780,Slovak Republic,Life satisfaction,6.5
+781,Slovak Republic,Long-term unemployment rate,3.0
+782,Slovak Republic,Personal earnings,23619.0
+783,Slovak Republic,Quality of support network,95.0
+784,Slovak Republic,Rooms per person,1.1
+785,Slovak Republic,Self-reported health,65.0
+786,Slovak Republic,Stakeholder engagement for developing regulations,3.0
+787,Slovak Republic,Student skills,469.0
+788,Slovak Republic,Time devoted to leisure and personal care,15.019
+789,Slovak Republic,Voter turnout,66.0
+790,Slovak Republic,Water quality,81.0
+791,Slovak Republic,Years in education,16.0
+792,Slovenia,Air pollution,17.0
+793,Slovenia,Dwellings without basic facilities,0.2
+794,Slovenia,Educational attainment,90.0
+795,Slovenia,Employees working very long hours,5.6
+796,Slovenia,Employment rate,71.0
+797,Slovenia,Feeling safe walking alone at night,91.0
+798,Slovenia,Homicide rate,0.4
+799,Slovenia,Household net adjusted disposable income,25250.0
+800,Slovenia,Household net wealth,233286.0
+801,Slovenia,Housing expenditure,18.2
+802,Slovenia,Labour market insecurity,5.9
+803,Slovenia,Life expectancy,81.6
+804,Slovenia,Life satisfaction,6.5
+805,Slovenia,Long-term unemployment rate,1.9
+806,Slovenia,Personal earnings,41445.0
+807,Slovenia,Quality of support network,95.0
+808,Slovenia,Rooms per person,1.6
+809,Slovenia,Self-reported health,67.0
+810,Slovenia,Stakeholder engagement for developing regulations,2.5
+811,Slovenia,Student skills,504.0
+812,Slovenia,Time devoted to leisure and personal care,15.563
+813,Slovenia,Voter turnout,53.0
+814,Slovenia,Water quality,93.0
+815,Slovenia,Years in education,18.0
+816,South Africa,Air pollution,28.5
+817,South Africa,Dwellings without basic facilities,35.9
+818,South Africa,Educational attainment,48.0
+819,South Africa,Employees working very long hours,15.4
+820,South Africa,Employment rate,39.0
+821,South Africa,Feeling safe walking alone at night,40.0
+822,South Africa,Homicide rate,13.7
+823,South Africa,Household net adjusted disposable income,9338.0
+824,South Africa,Household net wealth,107554.5
+825,South Africa,Housing expenditure,18.1
+826,South Africa,Labour market insecurity,18.16
+827,South Africa,Life expectancy,64.2
+828,South Africa,Life satisfaction,4.9
+829,South Africa,Long-term unemployment rate,17.9
+830,South Africa,Personal earnings,23943.7
+831,South Africa,Quality of support network,89.0
+832,South Africa,Rooms per person,1.2
+833,South Africa,Self-reported health,67.4
+834,South Africa,Stakeholder engagement for developing regulations,2.03
+835,South Africa,Student skills,410.5
+836,South Africa,Time devoted to leisure and personal care,14.749
+837,South Africa,Voter turnout,66.0
+838,South Africa,Water quality,72.0
+839,South Africa,Years in education,15.7
+840,Spain,Air pollution,10.0
+841,Spain,Dwellings without basic facilities,0.3
+842,Spain,Educational attainment,63.0
+843,Spain,Employees working very long hours,2.5
+844,Spain,Employment rate,62.0
+845,Spain,Feeling safe walking alone at night,80.0
+846,Spain,Homicide rate,0.7
+847,Spain,Household net adjusted disposable income,27155.0
+848,Spain,Household net wealth,366534.0
+849,Spain,Housing expenditure,21.7
+850,Spain,Labour market insecurity,15.8
+851,Spain,Life expectancy,83.9
+852,Spain,Life satisfaction,6.5
+853,Spain,Long-term unemployment rate,5.0
+854,Spain,Personal earnings,37922.0
+855,Spain,Quality of support network,93.0
+856,Spain,Rooms per person,1.9
+857,Spain,Self-reported health,75.0
+858,Spain,Stakeholder engagement for developing regulations,1.8
+859,Spain,Student skills,485.7
+860,Spain,Time devoted to leisure and personal care,15.75
+861,Spain,Voter turnout,72.0
+862,Spain,Water quality,76.0
+863,Spain,Years in education,18.0
+864,Sweden,Air pollution,5.8
+865,Sweden,Dwellings without basic facilities,0.0
+866,Sweden,Educational attainment,84.0
+867,Sweden,Employees working very long hours,0.9
+868,Sweden,Employment rate,75.0
+869,Sweden,Feeling safe walking alone at night,79.0
+870,Sweden,Homicide rate,1.1
+871,Sweden,Household net adjusted disposable income,33730.0
+872,Sweden,Household net wealth,146698.2
+873,Sweden,Housing expenditure,20.1
+874,Sweden,Labour market insecurity,4.4
+875,Sweden,Life expectancy,83.2
+876,Sweden,Life satisfaction,7.3
+877,Sweden,Long-term unemployment rate,1.0
+878,Sweden,Personal earnings,47020.0
+879,Sweden,Quality of support network,94.0
+880,Sweden,Rooms per person,1.7
+881,Sweden,Self-reported health,76.0
+882,Sweden,Stakeholder engagement for developing regulations,2.0
+883,Sweden,Student skills,503.0
+884,Sweden,Time devoted to leisure and personal care,15.324
+885,Sweden,Voter turnout,87.0
+886,Sweden,Water quality,97.0
+887,Sweden,Years in education,20.0
+888,Switzerland,Air pollution,10.1
+889,Switzerland,Dwellings without basic facilities,0.0
+890,Switzerland,Educational attainment,89.0
+891,Switzerland,Employees working very long hours,0.4
+892,Switzerland,Employment rate,80.0
+893,Switzerland,Feeling safe walking alone at night,86.0
+894,Switzerland,Homicide rate,0.3
+895,Switzerland,Household net adjusted disposable income,39697.0
+896,Switzerland,Household net wealth,266187.4
+897,Switzerland,Housing expenditure,21.4
+898,Switzerland,Labour market insecurity,3.41
+899,Switzerland,Life expectancy,84.0
+900,Switzerland,Life satisfaction,7.5
+901,Switzerland,Long-term unemployment rate,1.7
+902,Switzerland,Personal earnings,64824.0
+903,Switzerland,Quality of support network,94.0
+904,Switzerland,Rooms per person,1.9
+905,Switzerland,Self-reported health,81.0
+906,Switzerland,Stakeholder engagement for developing regulations,2.3
+907,Switzerland,Student skills,498.0
+908,Switzerland,Time devoted to leisure and personal care,15.202
+909,Switzerland,Voter turnout,45.0
+910,Switzerland,Water quality,96.0
+911,Switzerland,Years in education,17.0
+912,Türkiye,Air pollution,27.1
+913,Türkiye,Dwellings without basic facilities,4.9
+914,Türkiye,Educational attainment,42.0
+915,Türkiye,Employees working very long hours,25.0
+916,Türkiye,Employment rate,48.0
+917,Türkiye,Feeling safe walking alone at night,59.0
+918,Türkiye,Homicide rate,1.0
+919,Türkiye,Household net adjusted disposable income,19890.6
+920,Türkiye,Household net wealth,168466.2
+921,Türkiye,Housing expenditure,18.9
+922,Türkiye,Labour market insecurity,13.0
+923,Türkiye,Life expectancy,78.6
+924,Türkiye,Life satisfaction,4.9
+925,Türkiye,Long-term unemployment rate,3.3
+926,Türkiye,Personal earnings,27891.1
+927,Türkiye,Quality of support network,85.0
+928,Türkiye,Rooms per person,1.0
+929,Türkiye,Self-reported health,67.0
+930,Türkiye,Stakeholder engagement for developing regulations,1.5
+931,Türkiye,Student skills,462.0
+932,Türkiye,Time devoted to leisure and personal care,14.61
+933,Türkiye,Voter turnout,86.0
+934,Türkiye,Water quality,62.0
+935,Türkiye,Years in education,19.0
+936,United Kingdom,Air pollution,10.1
+937,United Kingdom,Dwellings without basic facilities,0.5
+938,United Kingdom,Educational attainment,82.0
+939,United Kingdom,Employees working very long hours,10.8
+940,United Kingdom,Employment rate,75.0
+941,United Kingdom,Feeling safe walking alone at night,78.0
+942,United Kingdom,Homicide rate,0.2
+943,United Kingdom,Household net adjusted disposable income,33049.0
+944,United Kingdom,Household net wealth,524422.0
+945,United Kingdom,Housing expenditure,23.2
+946,United Kingdom,Labour market insecurity,3.3
+947,United Kingdom,Life expectancy,81.3
+948,United Kingdom,Life satisfaction,6.8
+949,United Kingdom,Long-term unemployment rate,0.9
+950,United Kingdom,Personal earnings,47147.0
+951,United Kingdom,Quality of support network,93.0
+952,United Kingdom,Rooms per person,2.0
+953,United Kingdom,Self-reported health,73.0
+954,United Kingdom,Stakeholder engagement for developing regulations,3.1
+955,United Kingdom,Student skills,503.0
+956,United Kingdom,Time devoted to leisure and personal care,14.94
+957,United Kingdom,Voter turnout,68.0
+958,United Kingdom,Water quality,82.0
+959,United Kingdom,Years in education,17.0
+960,United States,Air pollution,7.7
+961,United States,Dwellings without basic facilities,0.1
+962,United States,Educational attainment,92.0
+963,United States,Employees working very long hours,10.4
+964,United States,Employment rate,67.0
+965,United States,Feeling safe walking alone at night,78.0
+966,United States,Homicide rate,6.0
+967,United States,Household net adjusted disposable income,51147.0
+968,United States,Household net wealth,684500.0
+969,United States,Housing expenditure,18.3
+970,United States,Labour market insecurity,4.2
+971,United States,Life expectancy,78.9
+972,United States,Life satisfaction,7.0
+973,United States,Long-term unemployment rate,0.5
+974,United States,Personal earnings,69392.0
+975,United States,Quality of support network,94.0
+976,United States,Rooms per person,2.4
+977,United States,Self-reported health,88.0
+978,United States,Stakeholder engagement for developing regulations,3.1
+979,United States,Student skills,495.0
+980,United States,Time devoted to leisure and personal care,14.57
+981,United States,Voter turnout,65.0
+982,United States,Water quality,88.0
+983,United States,Years in education,17.0

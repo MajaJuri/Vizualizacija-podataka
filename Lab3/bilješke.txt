@@ -1,0 +1,21 @@
+    
+"""
+    fig, ax = plt.subplots(1,2, figsize=(20,8)) 
+    bars = []
+    for year in range(air_year[0], air_year[1]+1):
+        kopija_tmp = kopija[kopija.year_aired == year]
+        count_per_year = kopija_tmp.shape[0]
+        bars.append(count_per_year)    
+    ax[0].plot(range(air_year[0], air_year[1]+1), bars)
+    ax[0].set_xlim(air_year[0], air_year[1], 1)
+    ax[0].set_ylim(0, 30, 1)
+    ax[0].set_title("Broj objavljenih epizoda")
+    
+    kopija_tmp = kopija[kopija.year_aired >= air_year[0]]
+    kopija_tmp = kopija_tmp[kopija_tmp.year_aired <= air_year[1]]
+    ax[1].boxplot(kopija_tmp.imdb, autorange=[0, 10])
+    # iz nekog razloga boxplot se ne želi nacrtat ako je u range-u 2020 ili 2021 godina...weird
+    # msm da je zato jer su ocjene vjv NaN pa treba nekako poponit nedostajuće vrijednosti - myb sa srednjom vrijednosti
+    ax[1].set_ylim(0, 10, 1)
+    ax[1].set_title("IMDb ocjene")
+    plt.show()"""

@@ -1,0 +1,26 @@
+.container {
+    display: table-cell;
+    vertical-align:top;
+    height: 500px;
+    padding: 10px;
+    border: 0px solid black;
+    text-align: center;
+    font-size: large;
+}
+
+.highlightable {
+    stroke-width: 1;
+    stroke: none;
+}
+
+.highlighted {
+    stroke-width: 2;
+    stroke: 'black'; 
+}
+
+div#main {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    margin-top: 15px;
+}

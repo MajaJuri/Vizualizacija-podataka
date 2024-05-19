@@ -1,0 +1,25 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Maja Jurić Lab 2</title>
+    <link rel="stylesheet" href="static/styles/style.css">
+    <script src="https://cdn.jsdelivr.net/npm/d3@7"></script>
+
+</head>
+<body>
+    <input type="hidden" id="heat_country" value="none">
+    <input type="hidden" id="scatter_country" value="none">
+
+    <div id="main">
+        <div id="heat_map"></div>
+        <div id="scatter_plot"></div>
+    </div>
+    <script src="static/js/scatter_plot.js"></script>
+    <script src="static/js/heat_map.js"></script>
+    <script>
+        draw_scatter_plot();
+        draw_heat_map()
+    </script>
+</body>
+</html>
